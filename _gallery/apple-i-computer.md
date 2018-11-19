@@ -8,5 +8,5 @@ license_text: Courtesy of Wikipedia
 categories:
   - archetypes
 tags:
-  - Apple
+  - Apple1
 ---
